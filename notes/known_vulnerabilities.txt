@@ -1,5 +1,9 @@
 file upload
-  -use of payload file is posible //*WARNING THIS WILL NEED TO BE EXECUTED MANUALLY*//
+  -use of payload file is possible //*WARNING THIS WILL NEED TO BE EXECUTED MANUALLY*//
     --Problems:
-      -Persmissions need to be given when being executed on target machine //*MAJOR ISSUE ON THIS EXPLOIT*//
+      -Permissions need to be given when being executed on target machine //*MAJOR ISSUE ON THIS EXPLOIT*//
         --FIX: make exploit nt just payload
+shell.php
+  -used to give www-data permissions using */shell.php?cmd=<insert command>
+    --Problems:
+      -Permission are terrible www-data
