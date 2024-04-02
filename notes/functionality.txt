@@ -1,0 +1,5 @@
+add more features
+--php code gets user input for changing file options
+  -Make the code vulnerable
+--add fake recaptcha for fun 
+  -see fakerecaptcha repo
