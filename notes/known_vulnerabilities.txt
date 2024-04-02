@@ -1,0 +1,5 @@
+file upload
+  -use of payload file is posible //*WARNING THIS WILL NEED TO BE EXECUTED MANUALLY*//
+    --Problems:
+      -Persmissions need to be given when being executed on target machine //*MAJOR ISSUE ON THIS EXPLOIT*//
+        --FIX: make exploit nt just payload
