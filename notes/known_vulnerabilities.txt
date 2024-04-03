@@ -9,3 +9,6 @@ shell.php
       -Permissions are terrible www-data
         --very few commands available
           -FIX: use an exploit to grant more permissions
+check php hack from medium
+ -CHECK: permission management
+  --RELATED: shell.php
